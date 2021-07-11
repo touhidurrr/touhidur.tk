@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm LICENSE
+rm -rf .g*
