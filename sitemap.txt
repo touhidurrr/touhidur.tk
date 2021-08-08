@@ -5,3 +5,4 @@ https://touhidur.tk/robots.txt
 https://touhidur.tk/favicon.ico
 https://touhidur.tk/favicon.png
 https://touhidur.tk/sitemap.txt
+https://touhidur.tk/images/shady-chat-01.jpg
